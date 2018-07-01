@@ -1,2 +1,3 @@
 测试一下git，学习，加油！！！！
 不用add命令
+测试git checkout .的用法
