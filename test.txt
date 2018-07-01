@@ -2,4 +2,4 @@
 不用add命令
 测试git checkout .的用法
 测试git diff的用法1 mmmmm
-测试git diff的用法2
+测试git diff的用法2 aaaa
